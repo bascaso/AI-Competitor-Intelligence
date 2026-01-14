@@ -1,0 +1,5 @@
+{
+  "name": "Hilti Competitor AI Tracker",
+  "description": "A high-end dashboard tracking AI-driven moves by Hilti's competitors in the construction, marketing, and sales sectors, utilizing real-time Google Search grounding.",
+  "requestFramePermissions": []
+}
